@@ -14,5 +14,5 @@ As an adjunct instructor I typically am asked by students of how python programm
 ### Reconaissance\Scanning
 
 Examples of code
-pingsweeper.py - scan a network for live systems
-portscanner.py - for a given host scan all ports
+* pingsweeper.py - scan a network for live systems
+* portscanner.py - for a given host scan all ports 
