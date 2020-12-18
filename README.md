@@ -9,6 +9,7 @@ As an adjunct instructor I typically am asked by students of how python programm
 2. Scanning
 3. Lateral Movement (Pivoting)
 4. Exploitation
+5. Logs
 
 
 ### Reconaissance\Scanning
